@@ -1,0 +1,21 @@
+{
+  "name": "alfred-npm-versions",
+  "version": "0.0.0",
+  "description": "Alfred workflow to view recent versions of any npm package",
+  "main": "index.js",
+  "author": {
+    "name": "Zander Martineau",
+    "url": "https://zander.wtf"
+  },
+  "repository": {
+    "url": "https://github.com/mrmartineau/alfred-npm-versions",
+    "type": "git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.8.0",
+    "pkg-versions": "^1.1.0"
+  },
+  "homepage": "https://github.com/mrmartineau/alfred-npm-versions",
+  "keywords": ["Alfred", "Alfred workflow"]
+}
