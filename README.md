@@ -2,6 +2,8 @@
 
 > Alfred workflow to view recent versions of any npm package
 
+![Image of the alfred npm versions workflow](https://i.imgur.com/cNIm25o.png)
+
 ## Install
 
 ```sh
