@@ -1,6 +1,6 @@
 {
   "name": "alfred-npm-versions",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Alfred workflow to view recent versions of any npm package",
   "main": "index.js",
   "author": {
@@ -17,5 +17,8 @@
     "pkg-versions": "^1.1.0"
   },
   "homepage": "https://github.com/mrmartineau/alfred-npm-versions",
-  "keywords": ["Alfred", "Alfred workflow"]
+  "keywords": [
+    "Alfred",
+    "Alfred workflow"
+  ]
 }
