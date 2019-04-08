@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "alfy": "^0.8.0",
-    "pkg-versions": "^1.1.0"
+    "pkg-versions": "^2.1.0"
   },
   "homepage": "https://github.com/mrmartineau/alfred-npm-versions",
   "keywords": [
